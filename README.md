@@ -1,4 +1,4 @@
-### Bentornato, amigo 👋
+### Bongiorno a tutti! 👋
 
 
 - 🌱 I’m currently learning 
