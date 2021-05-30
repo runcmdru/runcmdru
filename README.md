@@ -1,6 +1,7 @@
 ### Bongiorno a tutti! 👋
 
 
-- 🌱 I’m currently learning 
-- 🤔 I’m looking for money 8)
-- ⚡ Fun fact: i'm russian
+- 😇 The IT Crowd
+- 💎 Ctrl + V Developer
+- 🔮 SEO Expert
+- ⚡ KEEP CALM and USE VPN
