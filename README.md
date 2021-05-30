@@ -5,4 +5,5 @@
 - Ctrl + V _ Developer
 - SEO Expert
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![Instagram](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![WebSite](https://runcmd.ru/runcmd-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
