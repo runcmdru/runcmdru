@@ -1,9 +1,7 @@
 ### Hello, World! 👋
 
-RUNCMD.ru (aka @exxtesy)
+RUNCMD.ru (@exxtesy)
 =======================
-
----
 
 - The IT Crowd
 - Ctrl + V _ Developer
