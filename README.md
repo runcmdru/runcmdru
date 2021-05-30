@@ -1,7 +1,6 @@
-### Bongiorno a tutti! 👋
+### Hello, World! 👋
 
 
-- 😇 The IT Crowd
-- 💎 Ctrl + V Developer
-- 🔮 SEO Expert
-- ⚡ KEEP CALM and USE VPN
+- The IT Crowd
+- Ctrl + V Developer
+- SEO Expert
