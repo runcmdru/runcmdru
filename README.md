@@ -1,7 +1,7 @@
 ### Hello, World! 👋
 
-RUNCMD.ru (@exxtesy)
-=========
+RUNCMD.ru (aka @exxtesy)
+=======================
 
 ---
 
