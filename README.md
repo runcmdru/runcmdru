@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-ALEX. exxtesy
+ALEX.
 =============
 
 - The IT Crowd
